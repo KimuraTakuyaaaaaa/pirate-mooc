@@ -1,0 +1,16 @@
+[
+    {
+      "appId": 1,
+      "appInfo": {"rate": "中级", "tags": ["Java"], "price": "10000", "title": "Java 并发编程", "people": "300", "backgroundImage": "http://img1.sycdn.imooc.com/szimg/5d4ceaef09c3cb6612000676-360-202.png"}
+    },
+    {
+      "appId": 2,
+      "appInfo": {"rate": "高级", "tags": ["Electron", "React"], "price": "20000", "title": "Electron+React+七牛云 实战跨平台桌面应用", "people": "520", "backgroundImage": "http://img1.sycdn.imooc.com/szimg/5d665288090f60db12000676-360-202.png"}
+    },
+    {
+      "appId": 3,
+      "appInfo": {"rate": "高级", "tags": ["Spring", "Sprin Cloud"], "price": "30000", "title": "Spring Cloud微服务安全实战", "people": "152", "backgroundImage": "http://img1.sycdn.imooc.com/szimg/5d665288090f60db12000676-360-202.png"}
+    }
+]
+
+ 
